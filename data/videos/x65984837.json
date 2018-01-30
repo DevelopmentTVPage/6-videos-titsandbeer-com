@@ -1,0 +1,92 @@
+{
+    "title": "Brewing Tea Techniques",
+    "description": "This video explains how to brew tea using loose leaf tea.",
+    "referenceId": "d70f6bf016ac041aaa32dfe6fe891dc9",
+    "date_created": "1464881763",
+    "date_modified": "1484348661",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "436",
+    "CVV_VI": null,
+    "engagement_score": "4",
+    "conversion_score": null,
+    "id": "65984837",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Brewing-Tea-Techniques",
+    "category": "",
+    "duration": 60,
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "60",
+            "width": 426,
+            "height": 240
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984837\/42b5f\/thumb-d70f6bf016ac041aaa32dfe6fe891dc9-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984837\/42b5f\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984837\/42b5f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984837\/42b5f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984837\/42b5f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984837\/42b5f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984837\/42b5f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984837\/42b5f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "tvp_profiles": [
+        "14",
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 358.0494
+}
