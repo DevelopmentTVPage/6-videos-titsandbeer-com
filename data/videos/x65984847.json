@@ -1,0 +1,93 @@
+{
+    "title": "Swirled espresso for the the best aeration",
+    "description": "Aeration of espresso is important.",
+    "referenceId": "81c7d912ffbaf6efec2db05c1ed9efbc",
+    "date_created": "1464883822",
+    "date_modified": "1465310465",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "259",
+    "CVV_VI": null,
+    "engagement_score": "2",
+    "conversion_score": null,
+    "id": "65984847",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Swirled-espresso-for-the-the-best-aeration",
+    "category": "",
+    "duration": 18,
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "18",
+            "width": 426,
+            "height": 240
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984847\/bdf01\/thumb-81c7d912ffbaf6efec2db05c1ed9efbc-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984847\/bdf01\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984847\/bdf01\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984847\/bdf01\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984847\/bdf01\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984847\/bdf01\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984847\/bdf01\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984847\/bdf01\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "tvp_profiles": [
+        "18",
+        "25",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 310.51044
+}

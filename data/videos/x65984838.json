@@ -1,0 +1,91 @@
+{
+    "title": "Hot water teapot with whistle",
+    "description": "This teapot alerts you when the water is ready!",
+    "referenceId": "4f2d92668c7f52d7d5b39140af447b30",
+    "date_created": "1464881766",
+    "date_modified": "1465307402",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "393",
+    "CVV_VI": null,
+    "engagement_score": "3",
+    "conversion_score": null,
+    "id": "65984838",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Hot-water-teapot-with-whistle",
+    "category": "",
+    "duration": 11,
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "11",
+            "width": 426,
+            "height": 240
+        },
+        "mediaDuration": "11",
+        "prettyDuration": "00:00:11",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984838\/8ae7e\/thumb-4f2d92668c7f52d7d5b39140af447b30-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984838\/8ae7e\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984838\/8ae7e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984838\/8ae7e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984838\/8ae7e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984838\/8ae7e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984838\/8ae7e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984838\/8ae7e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Some transcript ...",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 434.5675
+}

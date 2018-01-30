@@ -1,0 +1,91 @@
+{
+    "title": "Coffee grind size makes the best cup",
+    "description": "Choosing the right coffee grinder is critical to enjoying a good cup in the morning.",
+    "referenceId": "331b7789eb231b94e8143ef4f47befbd",
+    "date_created": "1464883760",
+    "date_modified": "1465310262",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "277",
+    "CVV_VI": null,
+    "engagement_score": "2",
+    "conversion_score": null,
+    "id": "65984845",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Coffee-grind-size-makes-the-best-cup",
+    "category": "",
+    "duration": 24,
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "24",
+            "width": 426,
+            "height": 240
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984845\/bd709\/thumb-331b7789eb231b94e8143ef4f47befbd-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984845\/bd709\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984845\/bd709\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984845\/bd709\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984845\/bd709\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984845\/bd709\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984845\/bd709\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984845\/bd709\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 647.3382
+}

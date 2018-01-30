@@ -1,0 +1,96 @@
+{
+    "title": "Double wall insulated mug",
+    "description": "An insulated vessel is the best to drink coffee or tea from.",
+    "referenceId": "5681b71ee47dd70220111351ab2b4bc0",
+    "date_created": "1464880416",
+    "date_modified": "1486058743",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "3161",
+    "CVV_VI": null,
+    "engagement_score": "23",
+    "conversion_score": null,
+    "id": "65981962",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Double-wall-insulated-mug",
+    "category": "",
+    "duration": 7,
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "7",
+            "width": 426,
+            "height": 240
+        },
+        "mediaDuration": "7",
+        "prettyDuration": "00:00:07",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758799\/canvas\/426\/239\/335334297-01426240.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65981962\/e59b6\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65981962\/e59b6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65981962\/e59b6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65981962\/e59b6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65981962\/e59b6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65981962\/e59b6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 426,
+                "height": 240
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65981962\/e59b6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-02"
+        }
+    },
+    "tvp_profiles": [
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 480.40128
+}

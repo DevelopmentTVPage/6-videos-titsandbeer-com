@@ -1,0 +1,93 @@
+{
+    "title": "Enjoying Fresh Espresso from a New Machine",
+    "description": "Espresso is always better on a new espresso machine.",
+    "referenceId": "315e5572842a092d4792a14047f3df10",
+    "date_created": "1464881905",
+    "date_modified": "1465310014",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "382",
+    "CVV_VI": null,
+    "engagement_score": "3",
+    "conversion_score": null,
+    "id": "65984840",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Enjoying-Fresh-Espresso-from-a-New-Machine",
+    "category": "",
+    "duration": 18,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "18",
+            "width": 1920,
+            "height": 1012
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984840\/6a42b\/thumb-315e5572842a092d4792a14047f3df10-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984840\/6a42b\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984840\/6a42b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984840\/6a42b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1012
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984840\/6a42b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 674
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984840\/6a42b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 450
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984840\/6a42b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 336
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758799\/65984840\/6a42b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 168
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "tvp_profiles": [
+        "18",
+        "11",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 2487.133
+}
