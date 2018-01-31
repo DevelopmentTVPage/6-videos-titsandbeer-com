@@ -1,0 +1,23 @@
+{
+    "title": "Bean University",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "referenceId": null,
+    "date_created": "1465506685",
+    "date_modified": "1486092728",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "66133905",
+    "loginId": "1758799",
+    "entityType": "3",
+    "titleTextEncoded": "Bean-University",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}
